@@ -160,7 +160,7 @@ UX Designers shape how customers experience the product. They research user need
 ### How this persona interacts with existing roles
 - Partners with **Product Managers** to turn problem statements into validated designs
 - Hands off specifications and reviews implementations with **Developers**
-- Supplies **QA Engineers** with expected behaviours and accessibility criteria
+- Supplies **QA Engineers** with expected behaviors and accessibility criteria
 - Flags research or design dependencies to **Project Managers** for scheduling
 
 ---
